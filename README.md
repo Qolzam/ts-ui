@@ -5,6 +5,9 @@
 
 **Compatible with OpenFaaS**
 
+## Demo
+https://red-gold.o6s.io/auth/login
+
 ## Built With
 
   * [TypeScript](https://www.typescriptlang.org/) TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
