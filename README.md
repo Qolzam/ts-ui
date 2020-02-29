@@ -30,6 +30,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Author
   - Amir Movahedi
+  
+## Community
+
+Need help, [join our community](https://redgold.zulipchat.com/join/mriclcuqjawh8w1072v7ti2h/).
+
 
 ## License
 
