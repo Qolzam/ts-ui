@@ -33,7 +33,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   
 ## Community
 
-Need help, [join our community](https://redgold.zulipchat.com/join/mriclcuqjawh8w1072v7ti2h/).
+Need help, [join our community](https://docs.google.com/forms/d/e/1FAIpQLSdkwt5pxmyCZQO0AmyAghBOdA-XBG298Pfm5Dw1xjNGaGeCYQ/viewform).
 
 
 ## License
