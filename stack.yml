@@ -17,4 +17,5 @@ functions:
       write_debug: true
       gateway_url: https://red-gold.o6s.io
       base_href: '/web/'
+      websocket_url: "wss://red-gold-socket.herokuapp.com"
       query_pretty_url: true

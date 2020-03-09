@@ -93,11 +93,12 @@ module.exports = (event, context) => {
 
       // const isSignedIn = /openfaas_cloud_token=.*\s*/.test(event.headers.cookie);
 
-      const { base_href, public_url, pretty_url, query_pretty_url } = process.env;
+      const { base_href, public_url, pretty_url, query_pretty_url, websocket_url } = process.env;
       content = content.replace(/__BASE_HREF__/g, base_href);
       content = content.replace(/__PUBLIC_URL__/g, public_url);
       content = content.replace(/__PRETTY_URL__/g, pretty_url);
       content = content.replace(/__QUERY_PRETTY_URL__/g, query_pretty_url);
+      content = content.replace(/__WEBSOCKET_URL__/g, websocket_url);
       // content = content.replace(/__IS_SIGNED_IN__/g, isSignedIn);
     }
 
