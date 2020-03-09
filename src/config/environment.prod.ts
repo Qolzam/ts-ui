@@ -1,6 +1,6 @@
 import { LanguageType } from 'store/reducers/locale/langugeType'
 import { VerificationType } from 'core/domain/authorize/verificationType'
-
+import gateway from './gateway.prod.json'
 export const environment = {
   firebase: {
     apiKey: "AIzaSyBtlAw6mYUMqaoqIa6WyXoMKWLwhTe7ZK0",
@@ -15,9 +15,7 @@ export const environment = {
     appId: 'TOS20M7VT1',
     apiKey: 'c283440030db1f9446e8b410f7352479'
   },
-  websocket: {
-    url: "wss://red-gold-socket.herokuapp.com"
-  },
+  ...gateway,
   data: {
     imageFolderPath: 'images',
     avatarFolderPath: 'avatar',

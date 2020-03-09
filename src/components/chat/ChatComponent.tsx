@@ -428,7 +428,7 @@ export class ChatComponent extends Component<IChatProps, IChatState> {
             <IconButton className={classes.header} onClick={onToggle}>
               <BackIcon />
             </IconButton>
-            <UserAvatar fullName={receiverUser!.get('fullName')} size={30} fileName={receiverUser!.get('avatarURL')} />
+            <UserAvatar fullName={receiverUser!.get('fullName')} size={30} fileName={receiverUser!.get('avatar')} />
             <ListItemText
               onClick={this.toggleMinimize}
               className={classNames(classes.receiverUserRoot, classes.listItemText)}
