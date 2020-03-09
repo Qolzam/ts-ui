@@ -3,7 +3,10 @@
 > 🚧 ***IT IS UNDER ACTIVE DEVELOPMENT, current version is unstable and maybe change at any time until release of v1.0.0.*** 🚧
 <br>⚠️ ***DO NOT USE IN ANY PRODUCTION ENVIRONMENT!!!*** ⚠️
 
-** Compatible with OpenFaaS Cloud**
+**Compatible with OpenFaaS**
+
+## Demo
+https://red-gold.o6s.io/auth/login
 
 ## Built With
 
@@ -27,6 +30,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Author
   - Amir Movahedi
+  
+## Community
+
+Need help, [join our community](https://docs.google.com/forms/d/e/1FAIpQLSdkwt5pxmyCZQO0AmyAghBOdA-XBG298Pfm5Dw1xjNGaGeCYQ/viewform).
+
 
 ## License
 
